@@ -2,11 +2,13 @@
 /**
  * bar.js
  * simple bar chart library
- * version 1.0
+ * 03.07.2018 - version 1.0
+ * https://github.com/witekk9/simple_bar_chart
  * witekk.pl
  * 
- * Copyright 2018 Kamil Witek
+ * Copyright 2018 Kamil Witek <witek@witekk.pl>
  * Released under the MIT License
+ * https://github.com/witekk9/simple_bar_chart/blob/master/LICENCE.md
  */
 
  'use strict';
